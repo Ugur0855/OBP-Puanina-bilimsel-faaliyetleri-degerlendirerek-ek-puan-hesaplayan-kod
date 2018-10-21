@@ -1,6 +1,6 @@
 OBP Puanına, bilimsel faaliyetleri değerlendirerek ek puanı hesaplayan kod
 
-Algoritma
+Algoritma--
 
 -----OBP Puanına, bilimsel faaliyetleri değerlendirerek ek puanı hesaplayan kod-----
 
